@@ -1,5 +1,22 @@
-# 
+# Star Wars Quotes using FlatList
 
+Be sure to read the Canvas page "FlatList Introduction", located just before this project.
+
+For this project, you will display several Star Wars quotes using a FlatList with a separator between each item. The quotes are in this file Download this file.
+
+The screen displays a header "Quotes from Star Wars", then the quotes below it, displayed in a FlatList with a separator line, so the screen can be moved up or down to see the rest of the quotes.
+
+Add background color to the screen (your choice, make sure the text is visible). Increase the font size to 20 for the list items to take up a little more space on the screen and font size of 24 for the header.
+
+Take 2 screenshots as shown above.
+
+Submission: Zip together the root folder and the 2 screenshots, and submit the single zipped folder.
+
+https://reactnative.dev/docs/environment-setup
+
+![p]()
+
+![p]()
 
 == We're Using GitHub Under Protest ==
 
