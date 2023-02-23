@@ -6,10 +6,6 @@ The screen displays a header "Quotes from Star Wars", then the quotes below it, 
 
 Add background color to the screen (your choice, make sure the text is visible). Increase the font size to 20 for the list items to take up a little more space on the screen and font size of 24 for the header.
 
-Take 2 screenshots as shown above.
-
-Submission: Zip together the root folder and the 2 screenshots, and submit the single zipped folder.
-
 https://reactnative.dev/docs/environment-setup
 
 ![p](https://github.com/bell-kevin/quotesWithFlatList/blob/main/screenshots/1.PNG)
