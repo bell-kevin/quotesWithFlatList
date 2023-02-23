@@ -1,7 +1,5 @@
 # Star Wars Quotes using FlatList
 
-Be sure to read the Canvas page "FlatList Introduction", located just before this project.
-
 For this project, you will display several Star Wars quotes using a FlatList with a separator between each item. The quotes are in this file Download this file.
 
 The screen displays a header "Quotes from Star Wars", then the quotes below it, displayed in a FlatList with a separator line, so the screen can be moved up or down to see the rest of the quotes.
